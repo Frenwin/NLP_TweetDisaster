@@ -1,5 +1,5 @@
-# Day1_NLP_TweetDisaster
-Pada Hari pertama ini saya mempelajari pada bagian bidang NLP khusunya text klasifikasi.
+# NLP_TweetDisaster
+Pada project ini saya mempelajari pada bagian bidang NLP khusunya text klasifikasi.
 Pada bagian pertama saya mengambil dataset kaggle berjudul Tweet Disaster yang berisi kumpulan tweet pengguna yang mendeskripsikan apakah tweet/text tersebut merupakan penjelasan mengenai bencana
 
 Kedua saya melakukan pembersihan data seperti hanya mengambil text dan target dengan mengabaikan fitur lainnya
